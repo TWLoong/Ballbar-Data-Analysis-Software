@@ -31,3 +31,5 @@
 
 6. **分析结果输出**
    - 点击“分析结果”按钮，集中显示圆度误差、X/Y 轴反向间隙以及谐波组成。
+<img width="1121" height="859" alt="image" src="https://github.com/user-attachments/assets/46478a02-bc93-4a91-b556-ef612cba4e23" />
+
