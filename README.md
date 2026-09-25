@@ -32,9 +32,10 @@
 6. **分析结果输出**
    - 点击“分析结果”按钮，集中显示圆度误差、X/Y 轴反向间隙以及谐波组成。
 
-7. **注意**
+7. **说明**
    - 该程序不具备通用性，仅适用于分别采集上下两个半圆数据，最后拼接的情况
    - 数据处理核心代码借助AI较多，结果正确性无法保证（尤其是谐波分析部分）
+   - .mlapp文件仅设计了ui，未添加任何功能，可根据需求完成核心代码的实现
 <img width="1121" height="859" alt="image" src="https://github.com/user-attachments/assets/46478a02-bc93-4a91-b556-ef612cba4e23" />
 <img width="1115" height="859" alt="image" src="https://github.com/user-attachments/assets/2bb7cd91-9817-4fcc-9098-b33ae77d63fd" />
 <img width="1119" height="865" alt="image" src="https://github.com/user-attachments/assets/e2641c3f-2fdd-42a4-b5df-535f6291e2c1" />
